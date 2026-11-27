@@ -1,7 +1,50 @@
 {
-  "built_at": "2026-11-27",
+  "built_at": "2026-11-28",
   "base_url": "https://jhoshim89.github.io/sosofind-portal",
   "entries": [
+    {
+      "slug": "겨울철-보일러-사용법-실내-온돌-외출-모드별-3가지-설정-기준-913bc4d6",
+      "topic": "겨울철 보일러 사용법 실내·온돌·외출 모드별 3가지 설정 기준",
+      "title": "겨울철 보일러 사용법, 실내·온돌 모드 반대로 쓰면 생기는 일",
+      "keywords": [
+        "겨울철 보일러 사용법 실내·온돌·외출 모드별 3가지 설정 기준",
+        "겨울철 보일러 사용법",
+        "보일러 사용법",
+        "실내모드 온돌모드",
+        "난방비 절약 온도",
+        "난방비 절약 예약",
+        "보일러 외출모드",
+        "가스요금 절약하는 난방법",
+        "겨울철 적정 실내온도"
+      ],
+      "url": "https://jhoshim89.github.io/sosofind-portal/topics/겨울철-보일러-사용법-실내-온돌-외출-모드별-3가지-설정-기준-913bc4d6.html",
+      "has_affiliate": false,
+      "blog_url": "",
+      "youtube_url": "",
+      "post_dir": "/Users/js-mac/Projects/contest-agent/sns-automation/posts/2026-11-28-info-겨울철-보일러-사용법",
+      "episode_dir": ""
+    },
+    {
+      "slug": "욕실-온풍기-8c77e970",
+      "topic": "욕실 온풍기",
+      "title": "겨울 화장실 한기 줄이는 욕실 온풍기 5종, 무타공과 소비전력 차이 비교",
+      "keywords": [
+        "욕실 온풍기",
+        "화장실 온풍기",
+        "온풍기 전기세",
+        "가정용 온풍기",
+        "전기온풍기",
+        "벽걸이 온풍기",
+        "PTC 온풍기",
+        "무타공 온풍기"
+      ],
+      "url": "https://jhoshim89.github.io/sosofind-portal/topics/욕실-온풍기-8c77e970.html",
+      "has_affiliate": true,
+      "blog_url": "",
+      "youtube_url": "",
+      "post_dir": "/Users/js-mac/Projects/contest-agent/sns-automation/posts/2026-11-28-bathroom-heater-winter-compare",
+      "episode_dir": ""
+    },
     {
       "slug": "가열식-가습기-단점-화상-전기세-걱정-줄이는-4가지-사용법-41032878",
       "topic": "가열식 가습기 단점 화상·전기세 걱정 줄이는 4가지 사용법",
@@ -19,7 +62,7 @@
       ],
       "url": "https://jhoshim89.github.io/sosofind-portal/topics/가열식-가습기-단점-화상-전기세-걱정-줄이는-4가지-사용법-41032878.html",
       "has_affiliate": false,
-      "blog_url": "",
+      "blog_url": "https://blog.naver.com/soso_find2026/224494946899",
       "youtube_url": "",
       "post_dir": "/Users/js-mac/Projects/contest-agent/sns-automation/posts/2026-11-27-info-가열식-가습기-단점",
       "episode_dir": ""
